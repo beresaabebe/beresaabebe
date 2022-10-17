@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about kotlin
 - 💞️ I’m looking to collaborate on android application development.
 - 📫 use the following email address to contact me beresabecky@gmail.com
--    Look at my play store https://play.google.com/store/apps/dev?id=6669279757479011928
+- 📫 Look at my play store https://play.google.com/store/apps/dev?id=6669279757479011928
 
 <!---
 beresaabebe/beresaabebe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
